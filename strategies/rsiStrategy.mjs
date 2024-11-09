@@ -124,7 +124,7 @@ rsi.schema = z.object({
     .describe("Quantity to buy/sell"),
 });
 
-rsi.requiredHistory = 15;
+rsi.requiredHistory = ({ settings }) => settings.periods + 1;
 rsi.timeframe = ({ timeframe }) => timeframe;
 rsi.runPolicy = {
   onCandleClosed: true,

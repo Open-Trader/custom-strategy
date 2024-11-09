@@ -5,7 +5,15 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
+    "start": "CUSTOM_STRATEGIES_PATH=$(pwd)/strategies opentrader up"
   },
   "author": "bludnic",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "opentrader": "^1.0.0-beta.24",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
 }

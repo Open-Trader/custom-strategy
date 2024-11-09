@@ -1,0 +1,11 @@
+{
+  "name": "opentrader-custom-strategy",
+  "version": "1.0.0-beta.23",
+  "description": "OpenTrader custom strategy template",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "bludnic",
+  "license": "Apache-2.0"
+}

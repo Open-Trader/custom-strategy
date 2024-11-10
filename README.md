@@ -8,7 +8,13 @@
 npm install
 ```
 
-2. Start the OpenTrader
+2. Set admin password
+
+```bash
+npx opentrader set-password <password>
+```
+
+3. Start the OpenTrader
 
 ```bash
 npm run start

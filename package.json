@@ -1,6 +1,6 @@
 {
   "name": "opentrader-custom-strategy",
-  "version": "1.0.0-beta.23",
+  "version": "1.0.0-beta.25",
   "description": "OpenTrader custom strategy template",
   "type": "module",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "author": "bludnic",
   "license": "Apache-2.0",
   "dependencies": {
-    "opentrader": "^1.0.0-beta.24",
+    "opentrader": "^1.0.0-beta.25",
     "zod": "^3.23.8"
   },
   "devDependencies": {

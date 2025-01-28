@@ -1,5 +1,5 @@
 import { z } from "zod";
-import { buy, sell, cancelSmartTrade, useRSI } from "opentrader/effects";
+import { buy, sell, cancelSmartTrade, useRSI } from "opentrader";
 
 /**
  * Buy and Sell based on RSI indicator value.

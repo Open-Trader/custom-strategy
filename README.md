@@ -1,4 +1,4 @@
-# Custom strategy template for [OpenTrader](https://github.com/bludnic/opentrader)
+# Custom strategies by [OpenTrader](https://github.com/bludnic/opentrader)
 
 ## Setup
 

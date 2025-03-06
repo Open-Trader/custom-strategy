@@ -10,7 +10,7 @@
   "author": "bludnic",
   "license": "Apache-2.0",
   "dependencies": {
-    "opentrader": "^1.0.0-beta.28",
+    "opentrader": "^1.0.0-beta.29",
     "zod": "^3.24.1"
   },
   "devDependencies": {
